@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**DanielVojevodovas/DanielVojevodovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel Vojevodovas e atualmente estou estudando Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Tenho interesse em programação e desenvolvimento de aplicações, principalmente utilizando Java e banco de dados. Também venho aprendendo sobre Git e GitHub para organizar e versionar meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+
+- Java
+- Java Swing
+- MySQL
+- Maven
+- JPA / Hibernate
+- Git
+- GitHub
+
+## 🚀 Projetos
+
+### 🎬 Projeto Integrador Streaming
+
+Projeto desenvolvido em Java para simular um sistema de streaming, com interface gráfica, banco de dados e funcionalidades para gerenciamento de filmes e usuários.
+
+### 🔨 Sistema de Leilões
+
+Projeto desenvolvido em Java para gerenciamento de produtos e vendas, utilizando MySQL para armazenamento dos dados.
+
+## 📚 Atualmente estudando
+
+- Java
+- Banco de dados
+- Orientação a objetos
+- Desenvolvimento de sistemas
+- Git e GitHub
+
+## 🎯 Objetivo
+
+Continuar aprendendo, desenvolver novos projetos e evoluir cada vez mais na área de tecnologia.
